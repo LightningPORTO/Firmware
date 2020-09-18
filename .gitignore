@@ -113,3 +113,4 @@ src/systemcmds/topic_listener/listener_generated.cpp
 # SITL
 dataman
 eeprom/
+Tools/sitl_gazebo
